@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Governance
-tagline: Backed up by an open source framework
+tagline: an open source framework
 ---
 {% include JB/setup %}
 
@@ -25,9 +25,10 @@ Recurrent __questionings__ appears as the maturity of governance evolves:
 * Which element should be analyzed to determine a project's strategy?
 * What is the ROI expected with the adoption of an Open Source Component?
 
-Drakkr is a toolbox designed to help organizations in their integration and management of Open Source Components through best practices recommendations, suggested processes & enterprise organization and Open Source tools. 
+_Drakkr is a toolbox designed to help organizations in their integration and management of Open Source Components through best practices recommendations, suggested processes & enterprise organization and Open Source tools._
 
-Based on several proven Open Source tools and methodologies such as QSOS, Open Source Cartouche, ECOS, FLOSC or Stratos.
+Based on several proven Open Source tools and methodologies such as [QSOS](http://www.qsos.org), [Open Source Cartouche](http://www.opensourcecartouche.org), [ECOS](http://www.drakkr.org/ecos/) or [FLOSC](http://www.drakkr.org/flosc/).
 
 Still in intensive development, Drakkr is evolving quickly and will be released soon.
 
+[And if you cant wait...](https://github.com/drakkr)
