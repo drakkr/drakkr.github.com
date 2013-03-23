@@ -5,42 +5,27 @@ tagline: the Open Governance
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Every organization which use Open Source components needs an Open Source Governance.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+The usage of Open Source is motivated by multiple vectors such as:
 
-## Update Author Attributes
+* Financial
+* Technical
+* Ethics...
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+Nevertheless multiple risks are identified
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+* License terms
+* Security flaws
+* Project extinction...
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+Recurrent questionings appears as the maturity of governance evolves:
 
-    $ rm -rf _posts/core-samples
+* What would be the best component for a specific usecase?
+* Which element should be analyzed to determine a project's strategy?
+* What is the ROI expected with the adoption of an Open Source Component?
 
-Here's a sample "posts list".
+Drakkr is a toolbox designed to help organizations in their integration and management of Open Source Components through best practices recommendations, suggested processes & enterprise organization and Open Source tools. Based on several proven Open Source tools and methodologies such as QSOS, Open Source Cartouche, ECOS, FLOSC or Stratos.
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
+Still in intensive development, Drakkr is evolving quickly and will be released soon.
 
