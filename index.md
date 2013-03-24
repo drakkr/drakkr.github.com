@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Governance
-tagline: an open source framework
+tagline: with an open source framework
 ---
 {% include JB/setup %}
 
