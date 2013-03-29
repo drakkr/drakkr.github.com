@@ -39,6 +39,6 @@ _Drakkr is a toolbox designed to help organizations in their integration and man
 
 ![Drakkr schema](https://raw.github.com/drakkr/drakkr/master/Manifesto/en/Images/drakkr-schema_en.png)
 
-Based on several proven Open Source tools and methodologies such as [QSOS](http://www.qsos.org), [Open Source Cartouche](http://www.opensourcecartouche.org), [ECOS](http://www.drakkr.org/ecos/) or [FLOSC](http://www.drakkr.org/flosc/).
+Based on several proven Open Source tools and methodologies such as [QSOS](http://www.qsos.org), [Open Source Cartouche](http://www.opensourcecartouche.org), [ECOS](http://drakkr.github.com/ECOS/) or [FLOSC](http://www.drakkr.org/flosc/).
 
 Still in intensive development, Drakkr is evolving quickly and will be released soon.
