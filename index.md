@@ -5,6 +5,10 @@ tagline: with an open source framework
 ---
 {% include JB/setup %}
 
+### Impatient?
+
+Download the Drakkr manifesto, in [french](Drakkr-1.0_fr.pdf) (yeah... english version coming soon!).
+
 ### Recent news
 
 <ul class="posts">
