@@ -13,6 +13,8 @@ tagline: with an open source framework
   {% endfor %}
 </ul>
 
+<a href="https://github.com/drakkr/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
+
 ### What is drakkr?
 
 __Every organization which use Open Source components needs an Open Source Governance__.
